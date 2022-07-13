@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Prarana Arun Barve
+Build-Jdk: 18.0.1.1
+Implementation-Title: onlinefood
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.fooddelivery
+Implementation-URL: https://spring.io/projects/spring-boot/onlinefood
+Created-By: Maven Integration for Eclipse
+
